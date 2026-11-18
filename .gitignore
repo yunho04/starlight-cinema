@@ -1,0 +1,30 @@
+
+# Secrets and environment variables
+.env
+.env.*
+**/.env
+**/.env.*
+
+# React / Node
+node_modules/
+dist/
+coverage/
+
+# Spring Boot / Maven
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Local database and archives
+*.db
+*.sqlite
+*.zip

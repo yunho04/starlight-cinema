@@ -1,0 +1,8 @@
+# 강의 자료·회의록 PDF는 올리지 않음
+*.pdf
+.DS_Store
+.claude/
+node_modules/
+dist/
+.env
+.vercel

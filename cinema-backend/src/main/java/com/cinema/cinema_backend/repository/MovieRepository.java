@@ -1,0 +1,7 @@
+package com.cinema.cinema_backend.repository;
+
+import com.cinema.cinema_backend.entity.Movie;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface MovieRepository extends JpaRepository<Movie, Long> {
+}
